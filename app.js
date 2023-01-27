@@ -82,6 +82,11 @@ function changeimagebefore() {
 }
 
 
+const greeting = ()=>{
+  console.log("Hello World")
+}
+
+
 
 
 
